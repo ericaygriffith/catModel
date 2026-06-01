@@ -1,10 +1,10 @@
 # catModel
 
-One-sentence description of the project.
+This is a multiscale model which aims to capture the dynamical systems changes which underlie the transition from normal movement to hypo- and hyperactive catatonia. The circuits being modeled here include (insert brain areas). 
 
 # Scientific Question
 
-Briefly describe the neuroscience question being investigated.
+Q1: Why do benzodiazepines work to restore the dynamic equilibrium between the direct and indirect motor pathways? 
 
 
 # Project Goals
